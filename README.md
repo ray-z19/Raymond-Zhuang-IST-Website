@@ -1,1 +1,1 @@
-# My-Personal-Site-w/-CSS
+# IST-HTML-CSS-Project
